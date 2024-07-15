@@ -22,6 +22,12 @@
             key-positions = <25 37>;
             layers = <0>;
         };
+
+        ctrlX {
+            bindings = <&kp LC(X)>;
+            key-positions = <26 38>;
+            layers = <0>;
+        };
     };
 
     keymap {

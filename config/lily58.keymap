@@ -125,7 +125,7 @@
         };
 
         RPar {
-            bindings = <&kp LEFT_PARENTHESIS>;
+            bindings = <&kp RIGHT_PARENTHESIS>;
             key-positions = <19 18>;
             layers = <0>;
         };

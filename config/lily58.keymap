@@ -40,6 +40,30 @@
             key-positions = <28 40>;
             layers = <0>;
         };
+
+        ctrlA {
+            bindings = <&kp LC(A)>;
+            key-positions = <13 25>;
+            layers = <0>;
+        };
+
+        ctrlS {
+            bindings = <&kp LC(S)>;
+            key-positions = <14 26>;
+            layers = <0>;
+        };
+
+        ctrlD {
+            bindings = <&kp LC(D)>;
+            key-positions = <15 27>;
+            layers = <0>;
+        };
+
+        ctrlF {
+            bindings = <&kp LC(F)>;
+            key-positions = <16 28>;
+            layers = <0>;
+        };
     };
 
     keymap {

@@ -16,6 +16,12 @@
             bindings = <&tog 3>;
             key-positions = <2 10 11>;
         };
+
+        ctrlZ {
+            bindings = <&kp LC(Z)>;
+            key-positions = <25 37>;
+            layers = <0>;
+        };
     };
 
     keymap {

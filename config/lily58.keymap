@@ -64,6 +64,12 @@
             key-positions = <16 28>;
             layers = <0>;
         };
+
+        ctrlR {
+            bindings = <&kp LC(R)>;
+            key-positions = <16 4>;
+            layers = <0>;
+        };
     };
 
     keymap {

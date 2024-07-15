@@ -12,14 +12,10 @@
     combos {
         compatible = "zmk,combos";
 
-        toggle_layer_0 {
-            bindings = <&tog 0>;
-            key-positions = <10 11 1>;
-        };
-
         toggleLayerGaming {
             bindings = <&tog 3>;
             key-positions = <2 10 11>;
+            layers = <0 3>;
         };
 
         ctrl+Z {

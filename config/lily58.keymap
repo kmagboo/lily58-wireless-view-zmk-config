@@ -14,7 +14,7 @@
 
         toggleLayerGaming {
             bindings = <&tog 3>;
-            key-positions = <2 10 11>;
+            key-positions = <2 4 5>;
         };
 
         ctrlZ {
@@ -175,8 +175,8 @@
             bindings = <
 &kp ESC           &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5                          &trans  &trans  &trans     &trans      &trans         &trans
 &kp TAB           &kp Y         &kp Q         &kp W         &kp E         &kp R                           &kp Y   &kp U   &kp I      &kp O       &kp P          &trans
-&kp LEFT_SHIFT    &kp H         &kp A         &kp S         &kp D         &kp F                           &kp H   &kp J   &kp K      &kp L       &kp SEMICOLON  &trans
-&kp LEFT_CONTROL  &kp N         &kp Z         &kp X         &kp C         &kp V   &kp P        &kp ENTER  &kp N   &kp M   &kp COMMA  &kp PERIOD  &kp SLASH      &trans
+&kp LEFT_CONTROL  &kp H         &kp A         &kp S         &kp D         &kp F                           &kp H   &kp J   &kp K      &kp L       &kp SEMICOLON  &trans
+&kp LEFT_SHIFT    &kp N         &kp Z         &kp X         &kp C         &kp V   &kp P        &kp ENTER  &kp N   &kp M   &kp COMMA  &kp PERIOD  &kp SLASH      &trans
                                               &kp M         &kp LEFT_ALT  &kp B   &kp SPACE    &kp SPACE  &trans  &trans  &trans
             >;
         };
